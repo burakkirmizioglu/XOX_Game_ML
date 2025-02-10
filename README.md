@@ -9,10 +9,6 @@ This project involves the development of machine learning models to play the XOX
 ```js
 git clone https://github.com/burakkirmizioglu/XOX_Game_ML.git
 ```
-
-```js
-cd XOX_Game_ML
-```
 # Create a virtual environment (optional but recommended)
 ```js
 python -m venv venv
