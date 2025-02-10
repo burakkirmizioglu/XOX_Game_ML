@@ -75,3 +75,9 @@ This model was trained for the "O" player by playing 10 million games.
 
 ## Trained Old Models
 These models were used during the development phase. Shared for information purposes. If you want, you can try moving the model to the main file path.
+
+Model file name description: 
+file name lejant : "trained_1_2_3_game"
+1) _O_ or _X_ trained player information
+2) Information on how many games the model was trained by playing
+3) Version information, different scoring system was tried in each version. If Q, q-learning method was used
