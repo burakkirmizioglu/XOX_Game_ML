@@ -6,7 +6,7 @@
 
 This project involves the development of machine learning models to play the XOX (Tic-Tac-Toe) game. The models are trained using different reinforcement learning techniques to improve their gameplay strategies.
 # Clone the repository
-```git clone https://github.com/burakkirmizioglu/XOX_Game_ML.git```
+``git clone https://github.com/burakkirmizioglu/XOX_Game_ML.git``
 
 ```cd XOX_Game_ML```
 # Create a virtual environment (optional but recommended)
